@@ -19,4 +19,7 @@ public class Profile {
     private LocalDate birthDate;
     private String bio;
 
+    @OneToOne(mappedBy = "profile")
+    private User user;
+
 }
