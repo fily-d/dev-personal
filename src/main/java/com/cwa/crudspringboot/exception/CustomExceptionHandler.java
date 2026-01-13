@@ -1,4 +1,4 @@
-package com.cwa.crudspringboot;
+package com.cwa.crudspringboot.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -1,4 +1,4 @@
-package com.cwa.crudspringboot;
+package com.cwa.crudspringboot.exception;
 
 import lombok.Data;
 
